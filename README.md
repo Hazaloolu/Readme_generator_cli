@@ -17,3 +17,6 @@ all arguments are required: --project-name, --description, --installation, --usa
 
 ## Support
 kindly consider starring the project 
+
+## Screenshot
+![image](https://github.com/Navlos/images/blob/ca0048c5cd255c530bdffba9c3479908c6b6ea6a/Screenshot%202023-05-05%20125117.jpg)
