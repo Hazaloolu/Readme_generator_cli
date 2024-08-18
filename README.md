@@ -10,8 +10,7 @@ argparse
 ## Usage
 
  readme_generator.py [-h] --project-name PROJECT_NAME --description DESCRIPTION
-                           --installation INSTALLATION --usage USAGE --contribution
-                           CONTRIBUTION --contact CONTACT
+                          
                            
 all arguments are required: --project-name, --description, --installation, --usage, --contribution, --contact
 
